@@ -1,0 +1,68 @@
+item {
+    id: 1
+    name: 'Pleurotus ostreatus'
+}
+item {
+    id: 2
+    name: 'Rubroboletus satanas'
+}
+item {
+    id: 3
+    name: 'Boletus edulis'
+}
+item {
+    id: 4
+    name: 'Macrolepiota procera'
+}
+item {
+    id: 5
+    name: 'Tricholoma equestre'
+}
+item {
+    id: 6
+    name: 'Leccinum scabrum'
+}
+item {
+    id: 7
+    name: 'Paxillus involutus'
+}
+item {
+    id: 8
+    name: 'Suillus luteus'
+}
+item {
+    id: 9
+    name: 'Amanita muscaria'
+}
+item {
+    id: 10
+    name: 'Amanita pantherina'
+}
+item {
+    id: 11
+    name: 'Amanita phalloides'
+}
+item {
+    id: 12
+    name: 'Armillaria mellea'
+}
+item {
+    id: 13
+    name: 'Agaricus'
+}
+item {
+    id: 14
+    name: 'Cantharellus cibarius'
+}
+item {
+    id: 15
+    name: 'Imleria badia'
+}
+item {
+    id: 16
+    name: 'Lactarius deliciosus'
+}
+item {
+    id: 17
+    name: 'Inocybe'
+}
